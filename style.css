@@ -48,4 +48,5 @@ nav ul{
   border-width: 2px;
   border-colour:black;
   border-style: solid; 
+  padding: 1rem;
 }
